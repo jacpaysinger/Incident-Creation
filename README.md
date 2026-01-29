@@ -69,19 +69,23 @@ Additional incident attributes were reviewed or set as follows:
 - State: New  
 - Impact: 1 – High  
 - Urgency: 1 – High  
-- Priority: Automatically calculated as 1 – Critical  
+- Priority: Automatically calculated as 1 – Critical
+  
+The record was saved without submitting to remain on the form.
 
 <img width="1815" height="545" alt="Screen Shot 2026-01-28 at 6 23 57 PM" src="https://github.com/user-attachments/assets/b4f44289-f8ba-4084-8563-3bb1d9e3564b" />
-The record was saved without submitting to remain on the form.
+
 
 ### Step 6: Add Work Notes and Customer Comments
 The Notes tab was used to document both internal and customer-facing updates.
 
 - Work notes: No outages have been reported, am routing to the Conference Event App support team.  
 - Additional comments: Fred, we are working on getting the app up and running.
+  
+This demonstrates the separation between internal documentation and customer communication.
 
 <img width="1815" height="823" alt="Screen Shot 2026-01-28 at 6 26 22 PM" src="https://github.com/user-attachments/assets/f8a13518-18f7-4846-8845-68daf92f5817" />
-This demonstrates the separation between internal documentation and customer communication.
+
 
 ### Step 7: Review Incident Activity and Related Records
 The History menu was used to reopen the Incident. The Activity stream was reviewed to confirm that notes, comments, and timestamps were recorded correctly.
@@ -104,9 +108,10 @@ The Incident was located using multiple list techniques:
 - Sorting the Opened column
 - Searching the Number column using the full Incident number
 - Using wildcard searches to locate partial values
+  
+These techniques demonstrate efficient navigation within large record sets.
 
 <img width="1815" height="326" alt="Screen Shot 2026-01-28 at 6 56 20 PM" src="https://github.com/user-attachments/assets/df26bd21-9f2e-49e2-ad85-953141bde874" />
-These techniques demonstrate efficient navigation within large record sets.
 
 ### Step 11: Access Service Desk Modules
 The Service Desk module was accessed from the All menu.
@@ -121,8 +126,10 @@ The list header and breadcrumbs were reviewed to confirm:
 - The correct table was displayed
 - Filters were applied to show unassigned group work
 
-<img width="1815" height="326" alt="Screen Shot 2026-01-28 at 6 29 58 PM" src="https://github.com/user-attachments/assets/646449ee-ca92-4038-ae5e-67a50703a97e" />
 This view demonstrates how analysts monitor incoming work before individual assignment.
+
+<img width="1815" height="326" alt="Screen Shot 2026-01-28 at 6 29 58 PM" src="https://github.com/user-attachments/assets/646449ee-ca92-4038-ae5e-67a50703a97e" />
+
 
 
 ## Lessons Learned
